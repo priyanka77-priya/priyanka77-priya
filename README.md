@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm priyanka kalyampudi</h1>
-<h3 align="center">A passionate at programming and learning new frameworks .</h3>
-<img align="right" alt="coding" width="400" scr="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lambdatest.com%2Fresources%2Fimages%2Fnews24.gif&imgrefurl=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&tbnid=ZhQzSnD4VeNxRM&vet=12ahUKEwirkKzUz-T8AhURXnwKHei7CTAQMyggegUIARDuAg..i&docid=eQXQD81bAUJkEM&w=800&h=466&q=animated%20coding%20gif&ved=2ahUKEwirkKzUz-T8AhURXnwKHei7CTAQMyggegUIARDuAg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka77-priya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka77-priya" /> </p>
+<h3 align="center"> passionate at programming and learning new frameworks .</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka77-priya" alt="priyanka77-priya" /></a> </p>
 
