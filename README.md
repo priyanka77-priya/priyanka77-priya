@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm priyanka kalyampudi</h1>
 <h3 align="center"> passionate at programming and learning new frameworks .</h3>
-<img align="right" alt="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa6%2F70%2F91%2Fa67091c003173f3cd58801f345392dde.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcheck-out-what-i-made--851743348269338671%2F&tbnid=qKd2A4nNxlaQPM&vet=12ahUKEwi0yJTcluz8AhXJKbcAHZYBDlkQMygOegUIARCSAg..i&docid=eYeL_T69qdxkGM&w=768&h=768&q=coding%20gif%20links&ved=2ahUKEwi0yJTcluz8AhXJKbcAHZYBDlkQMygOegUIARCSAg"
+<img align="right" alt="
 >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka77-priya" alt="priyanka77-priya" /></a> </p>
