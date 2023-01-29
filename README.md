@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanka kalyampudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka kalyampudi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-kalyampudi-3a4749212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-kalyampudi-3a4749212/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/20pa1a0567" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="20pa1a0567" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20pa1a0567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20pa1a0567" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/20pa1a0567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="20pa1a0567" height="30" width="40" /></a>
